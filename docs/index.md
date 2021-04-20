@@ -2,15 +2,19 @@
 
 Bridging real-world cannabis assets & securities to the blockchain through novel reflectionary synthetics & seigniorage
 
-$SNOGE Ethereum Contract address: 0x072c46F392E729C1f0D92a307c2C6DBA06B5D078
-2% slippage required on Uniswap!
+$SNOGE Ethereum Contract address: 
+- **0x072c46F392E729C1f0D92a307c2C6DBA06B5D078**
+
+**2% slippage required on Uniswap!**
 
 - [Etherscan](https://etherscan.io/address/0x072c46F392E729C1f0D92a307c2C6DBA06B5D078)
 - [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x072c46f392e729c1f0d92a307c2c6dba06b5d078)
 
 $SNOGE is a reflectionary token inspired by HOGE, WOGE, and the other strains of OGE. With a 2% transaction fee, holders will be able to maximize their participation in our upcoming cannabis projects & partnerships.
 
-![Reflectionary](https://snoge.io/img/partnerships.svg){:width="300px"}
+<p align="center">
+  <img width="460" height="300" src="https://snoge.io/img/partnerships.svg">
+</p>
 
 Unlike other reflectionary projects, $SNOGE and our partners can be used as collateral to create real-world synthetics tied to cannabis stocks & assets. As such, our token benefits holders & traders via lending & staking in our in-development seigniorage which captures real-world profits from our partners!
 
