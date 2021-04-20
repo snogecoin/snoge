@@ -22,7 +22,7 @@ Unlike other reflectionary projects, $SNOGE and our partners can be used as coll
   <img width="460" height="300" src="https://snoge.io/img/charities.svg">
 </p>
 
-The decentralized & censorship-resistant nature of Ethereum allows our project to cannabis-savvy investors & partner projects who understand the untapped merits of cannabis as much as we do. Our team is composed of experienced  
+The decentralized & censorship-resistant nature of Ethereum allows our project to reach cannabis-savvy investors & partner projects who understand the untapped merits of cannabis as much as we do. Our team is composed of experienced blockchain developers & cannabis investors who are pooling their resources to maximize the outreach of cannabis assets.
 
 As a community focused project, our immediate goals are to give back to cannabis research & charities. Our team is currently developing a novel NFT-based multi-signature vault that allows all of our participants to comfortably donate to our targeted charities, voted upon by our governance. Our platform will be entirely open source, so stay tuned! 
 
@@ -39,6 +39,7 @@ April 20th:
 - Site launch, marketing, partnership reachout
 
 End of April: 
+- Token audit.
 - Single-staking & LP-staking pools (with to-be-disclosed partnerships). 
 - Dynamically generated, hallucinogenic NFT artwork design phase. 
 - Development of a multisig NFT donation vault which will be made open source for other charity-themed projects.
@@ -47,6 +48,7 @@ End of May:
 - Governance deployment. 
 - Donations to the Center of Medical Cannabis Research & cannabis charities. 
 - NFT launch & distribution. 
+- NFT vault audit.
 - Meme competition!
 
 End of June: 
@@ -55,8 +57,11 @@ End of June:
 
 End of July: 
 - Mainnet DEX deployment. 
-- Cross-chain deployment & bridges. 
+- DEX contract audits.
+- Cross-chain deployment & bridges.
+- Cross-chain token & bridge contract audits.
 - Development of TOKE, a partially collateralized stablecoin leveraging cross-chain lending mechanics.
+- TOKE audit.
 
 End of August: 
 - Expansion of governance via full decentralization into the 420DAO. 
