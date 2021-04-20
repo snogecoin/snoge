@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Contribute to the Official Snoge Website
 
-You can use the [editor on GitHub](https://github.com/snogecoin/snoge/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/snogecoin/snoge/edit/main/docs/index.md) to update the Markdown file which is the content on the official Snoge website (https://snoge.io).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages on the site, from the content in your Markdown files.
 
 ### Markdown
 
