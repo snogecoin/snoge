@@ -65,7 +65,7 @@ End of April:
 
 End of May: 
 - Governance deployment. 
-- Donations to the Center of Medical Cannabis Research & cannabis charities. 
+- Donations to the Center of Medical Cannabis Research, cannabis charities, and the Last Prisoner Project.
 - NFT launch & distribution. 
 - NFT vault audit.
 - Meme competition!
