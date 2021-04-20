@@ -45,9 +45,9 @@ Our team is currently developing a novel NFT-based multi-signature vault that al
 
 While you wait, please give some support to Snoop Dogg this April 20th by checking out his recently launched NFT collections & his online store.
 
-- https://twitter.com/SnoopDogg/status/1384372308102377473
-- https://opensea.io/assets/0xb32979486938aa9694bfc898f35dbed459f44424/10
-- https://www.snoopermarket.com/
+- [Snoop Dogg Twitter](https://twitter.com/SnoopDogg/status/1384372308102377473)
+- [Snoop Dogg + Nyan NFT](https://opensea.io/assets/0xb32979486938aa9694bfc898f35dbed459f44424/10)
+- [Snoop Dogg Store](https://www.snoopermarket.com/)
 
 For more information on our project plans, please refer to the following roadmap & our Medium launch post.
 
