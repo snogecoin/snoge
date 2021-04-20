@@ -9,6 +9,7 @@ $SNOGE Ethereum Contract address:
 
 - [Etherscan](https://etherscan.io/address/0x072c46F392E729C1f0D92a307c2C6DBA06B5D078)
 - [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x072c46f392e729c1f0d92a307c2c6dba06b5d078)
+- [Dextools](https://www.dextools.io/app/uniswap/pair-explorer/0x98904add2880c06e7a9ba444dc463d034f29ecf4)
 
 $SNOGE is a reflectionary token inspired by HOGE, WOGE, and the other strains of OGE. With a 2% transaction fee, holders will be able to maximize their participation in our upcoming cannabis projects & partnerships.
 
