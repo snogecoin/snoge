@@ -1,7 +1,7 @@
 ## Take the Kushiest Moonride with $SNOGE
 
 <p align="left">
-  <img width="460" height="300" src="https://snoge.io/img/logo.jpg">
+  <img width="247" height="247" src="https://snoge.io/img/logo.jpg">
 </p>
 
 Bridging real-world cannabis assets & securities to the blockchain through novel reflectionary synthetics & seigniorage
