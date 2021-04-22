@@ -88,6 +88,6 @@ End of August:
 
 Get kushy, because this project’s gonna go high.
 
-[Telegram](https://t.me/snoopdoge42069)	
-[Twitter](https://twitter.com/SnoopDoggeDoge)
+[Telegram](https://t.me/SnogeOfficial)	
+[Twitter](https://twitter.com/SnogeOfficial)
 [Medium](https://snoge.medium.com/snoge-launch-whos-ready-for-the-kushiest-moonride-61e387d0dee)
